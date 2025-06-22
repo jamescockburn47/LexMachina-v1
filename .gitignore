@@ -1,1 +1,7 @@
 __pycache__/\n*.pyc\n.env\nvenv/
+enron/emails_clean.csv
+vectorstore/
+venv/
+enron/emails_clean.csv
+vectorstore/
+venv/
